@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Data.EmployeePay>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>حقوق کارمندان</h2>
+
+<p>
+    @Html.ActionLink("افزودن", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pay)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pay)
+        </td>
+        <td>
+            @Html.ActionLink("ویرایش", "Edit", new { id=item.PayID }) |
+            @Html.ActionLink("جزئیات", "Details", new { id=item.PayID }) |
+            @Html.ActionLink("حذف", "Delete", new { id=item.PayID })
+        </td>
+    </tr>
+}
+
+</table>

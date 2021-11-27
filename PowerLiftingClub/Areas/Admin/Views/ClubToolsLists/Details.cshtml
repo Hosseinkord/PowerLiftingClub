@@ -1,0 +1,42 @@
+﻿@model Data.ClubToolsList
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>جزئیات</h2>
+
+<div>
+    <h4>لیست امکانات و اموال باشگاه</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ToolsName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToolsName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CountTools)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CountTools)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Spoiled)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Spoiled)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("ویرایش", "Edit", new { id = Model.ToolsID }) |
+    @Html.ActionLink("بازگشت", "Index")
+</p>

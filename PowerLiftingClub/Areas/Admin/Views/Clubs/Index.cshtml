@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Data.Club>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>باشگاه</h2>
+
+<p>
+    @Html.ActionLink("اقزودن", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ManagerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ManagerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+        <td>
+            @Html.ActionLink("ویرایش", "Edit", new { id=item.Name }) |
+            @Html.ActionLink("جزئیات", "Details", new { id=item.Name }) |
+            @Html.ActionLink("حذف", "Delete", new { id=item.Name })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,153 @@
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\ApplicationInsights.config
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\PowerLiftingClub.dll.config
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\PowerLiftingClub.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\PowerLiftingClub.pdb
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csc.exe
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csc.exe.config
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csc.rsp
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csi.exe
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csi.rsp
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.AppContext.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.Collections.Immutable.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.IO.FileSystem.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.Reflection.Metadata.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\vbc.exe
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\vbc.exe.config
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\vbc.rsp
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\VBCSCompiler.exe
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\roslyn\VBCSCompiler.exe.config
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Antlr3.Runtime.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Data.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.SqlServer.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.DependencyCollector.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.Web.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.WindowsServer.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.ApplicationInsights.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.Web.Infrastructure.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Newtonsoft.Json.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Helpers.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Mvc.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Optimization.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Razor.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Deployment.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Razor.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\WebGrease.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Data.pdb
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Data.dll.config
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.SqlServer.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Helpers.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Mvc.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Optimization.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Razor.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Deployment.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Razor.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Newtonsoft.Json.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Antlr3.Runtime.pdb
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.DependencyCollector.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.WindowsServer.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.Web.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\obj\Debug\PowerLiftingClub.csprojAssemblyReference.cache
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\obj\Debug\PowerLiftingClub.csproj.CoreCompileInputs.cache
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\obj\Debug\PowerLiftingClub.csproj.CopyComplete
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\obj\Debug\PowerLiftingClub.dll
+G:\Drive G\Web Example\PowerLiftingClub\PowerLiftingClub\obj\Debug\PowerLiftingClub.pdb
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\ApplicationInsights.config
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\PowerLiftingClub.dll.config
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\PowerLiftingClub.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\PowerLiftingClub.pdb
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csc.exe
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csc.exe.config
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csc.rsp
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csi.exe
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\csi.rsp
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.AppContext.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.Collections.Immutable.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.IO.FileSystem.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\System.Reflection.Metadata.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\vbc.exe
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\vbc.exe.config
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\vbc.rsp
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\VBCSCompiler.exe
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\roslyn\VBCSCompiler.exe.config
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Antlr3.Runtime.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Data.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.SqlServer.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.DependencyCollector.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.Web.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.WindowsServer.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.ApplicationInsights.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.Web.Infrastructure.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Newtonsoft.Json.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Helpers.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Mvc.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Optimization.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Razor.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Deployment.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Razor.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\WebGrease.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Data.pdb
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Data.dll.config
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\EntityFramework.SqlServer.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Helpers.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Mvc.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Optimization.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.Razor.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Deployment.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Web.WebPages.Razor.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Newtonsoft.Json.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Antlr3.Runtime.pdb
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.DependencyCollector.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.WindowsServer.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.AI.Web.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\obj\Debug\PowerLiftingClub.dll
+G:\Drive G\Web Example\Back Up\PowerLiftingClub\PowerLiftingClub\obj\Debug\PowerLiftingClub.pdb

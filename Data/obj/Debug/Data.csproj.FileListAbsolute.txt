@@ -1,0 +1,17 @@
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\Data.dll.config
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\Data.dll
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\Data.pdb
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\EntityFramework.dll
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\System.Web.Mvc.dll
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\EntityFramework.xml
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\Drive G\Web Example\PowerLiftingClub\Data\bin\Debug\System.Web.Mvc.xml
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.csprojAssemblyReference.cache
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.csproj.CopyComplete
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.dll
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.pdb
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.Migrations.Initial_DataBase.resources
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.csproj.GenerateResource.cache
+G:\Drive G\Web Example\PowerLiftingClub\Data\obj\Debug\Data.Migrations.ChangeDataBase.resources

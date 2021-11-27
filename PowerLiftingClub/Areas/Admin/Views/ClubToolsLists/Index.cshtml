@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Data.ClubToolsList>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>لیست امکانات و اموال باشگاه</h2>
+
+<p>
+    @Html.ActionLink("آفزودن", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ToolsName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CountTools)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Spoiled)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ToolsName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CountTools)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Spoiled)
+        </td>
+        <td>
+            @Html.ActionLink("ویرایش", "Edit", new { id=item.ToolsID }) |
+            @Html.ActionLink("جزئیات", "Details", new { id=item.ToolsID }) |
+            @Html.ActionLink("حذف", "Delete", new { id=item.ToolsID })
+        </td>
+    </tr>
+}
+
+</table>
